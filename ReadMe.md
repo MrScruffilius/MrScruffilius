@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student with interest in different technologies.<br>My main focus lies on cybersecurity and penetration testing.
+I'm a computer science student with interest in different technologies.<br>My main focus lies in cybersecurity and penetration testing.
 
 
 ## 🌐 Socials:
